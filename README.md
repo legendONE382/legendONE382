@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emmanuel
+# 👋 Hello
 
 **AI builder | Founder @ Estech Solutions**  
 I build practical products, learn in public, and ship consistently.
