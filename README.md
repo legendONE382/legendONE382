@@ -1,73 +1,89 @@
-# 👋 Hello
+# Emmanuel — Full-Stack Developer & AI Engineer
 
-**AI builder | Founder @ Estech Solutions**  
-I build practical products, learn in public, and ship consistently.
+**Building scalable applications | Founder @ Estech Solutions**
 
-I’m focused on creating real-world software for creators, businesses, and African markets — with an emphasis on AI, automation, and useful digital products.
-
----
-
-## 🧠 What I'm Working On
-
-- AI-powered applications
-- Document analysis and RAG tools
-- Digital and physical marketplace platforms
-- Software that solves real problems for real users
+Full-stack developer with expertise in designing and deploying production-grade applications. Specialized in AI-driven systems, marketplace platforms, and real-time applications serving creators and businesses across African markets.
 
 ---
 
-## 🔥 Featured Projects
+## 💼 Professional Overview
 
-### 🧠 AI Chat App
-A multi-model AI chat platform with automatic failover between APIs for more reliable and uninterrupted conversations.
+I architect end-to-end solutions spanning frontend, backend, and infrastructure. My focus is on writing maintainable code, optimizing performance, and delivering measurable business impact through technology.
 
-### 📄 AskDocs
-An AI document assistant that lets users upload files and chat with them using retrieval-augmented generation (RAG).
-
-### 🛒 Naija Digital Store
-A marketplace platform for selling digital and physical products with workflows designed for Nigerian creators and businesses.
+- ⚙️ **Full-Stack Development** — Frontend to backend to deployment
+- 🤖 **AI Integration** — LLMs, RAG systems, and intelligent automation
+- 📊 **Production Systems** — Scalable architectures with reliability at scale
+- 🚀 **Rapid Shipping** — Agile development with consistent delivery
 
 ---
 
-## 🛠️ Tech Stack
+## 🏢 Featured Work
 
-**Languages**
-Python • JavaScript • TypeScript • HTML • CSS
+**AI Chat Application**
+- Multi-model AI platform with automatic failover and load balancing
+- Real-time conversation streaming with fallback mechanisms
+- Production deployment serving multiple users
 
-**AI & Tools**
-PyTorch • OpenAI API • Mistral • RAG systems • Automation
+**AskDocs — Intelligent Document Analysis**
+- Retrieval-augmented generation (RAG) system for file analysis
+- Full-stack implementation: React frontend, Python backend, vector DB
+- Enable users to query documents with AI-powered Q&A
 
----
-
-## 📈 Current Focus
-
-- Deepening my AI development skills
-- Building scalable, production-ready systems
-- Growing Estech Solutions
-- Learning by building and shipping real projects
-
----
-
-## 🌐 Connect With Me
-
-📧 ue9938090@gmail.com  
-🌍 https://programmer-emmanuel.vercel.app
+**Naija Digital Store — Marketplace Platform**
+- Digital and physical product marketplace tailored for African creators
+- Complete end-to-end platform: payment processing, inventory management, analytics
+- Designed for scalability and user retention
 
 ---
 
-⭐ Building in public. Improving daily. Focused on impact.
-🛠️ Tech Stack
-🐍 Python
-🔥 PyTorch
-💻 JavaScript / TypeScript
-🌐 HTML / CSS
-🤖 AI APIs (OpenAI, Mistral)
-📈 Current Focus
-Deepening AI development skills
-Building scalable AI systems
-Growing Estech Solutions
-🌐 Connect With Me
-📧 Email: ue9938090@gmail.com
-🌍 Portfolio: https://programmer-emmanuel.vercel.app
+## 🛠️ Technical Competencies
 
-⭐ Building in public. Improving daily. Focused on impact.
+**Frontend**
+- React • Next.js • TypeScript • Tailwind CSS • Redux
+
+**Backend**
+- Python (FastAPI, Django) • Node.js • REST APIs • GraphQL
+
+**Database & Infrastructure**
+- PostgreSQL • MongoDB • Redis • Vector Databases
+- AWS • Docker • CI/CD pipelines
+
+**AI & Machine Learning**
+- PyTorch • LangChain • OpenAI API • Mistral • RAG Systems
+- Prompt Engineering • Model Fine-tuning
+
+**Tools & Practices**
+- Git & Version Control • Testing • Performance Optimization
+- System Design • Agile Development
+
+---
+
+## 📈 Expertise Areas
+
+| Area | Experience |
+|------|------------|
+| **Full-Stack Development** | End-to-end application design and execution |
+| **AI Integration** | LLM implementation, RAG pipelines, automation |
+| **Scalable Systems** | Architecture for growth and reliability |
+| **Marketplace Platforms** | Complex multi-vendor systems with payments |
+| **Performance Optimization** | Database queries, frontend rendering, API design |
+
+---
+
+## 🎯 Current Initiatives
+
+- Building AI-native applications with production-grade reliability
+- Scaling Estech Solutions with enterprise-ready products
+- Architecting systems for African market penetration
+- Contributing to open-source AI and full-stack tooling
+
+---
+
+## 📫 Let's Work Together
+
+**Email:** ue9938090@gmail.com  
+**Portfolio:** [programmer-emmanuel.vercel.app](https://programmer-emmanuel.vercel.app)
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legendONE382&show_icons=true&theme=dark&count_private=true)](https://github.com/legendONE382)
