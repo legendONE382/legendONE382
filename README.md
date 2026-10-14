@@ -39,17 +39,17 @@ I architect end-to-end solutions spanning frontend, backend, and infrastructure.
 ## 🛠️ Technical Competencies
 
 **Frontend**
-- React • Next.js • TypeScript • Tailwind CSS • Redux
+- React • Next.js • TypeScript • Tailwind CSS
 
 **Backend**
-- Python (FastAPI, Django) • Node.js • REST APIs • GraphQL
+- Python (FastAPI, Django) • Node.js • REST APIs 
 
 **Database & Infrastructure**
 - PostgreSQL • MongoDB • Redis • Vector Databases
 - AWS • Docker • CI/CD pipelines
 
 **AI & Machine Learning**
-- PyTorch • LangChain • OpenAI API • Mistral • RAG Systems
+- PyTorch • Gemini API • Mistral • RAG Systems
 - Prompt Engineering • Model Fine-tuning
 
 **Tools & Practices**
