@@ -1,87 +1,124 @@
-<!-- Profile README for: legendONE382 -->
+<div align="center">
 
-<h1 align="center">Emmanuel (legendONE382)</h1>
-<p align="center">
-  <b>Full-Stack Developer & AI Engineer</b> • Founder @ <b>Estech Solutions</b><br/>
-  Building AI-powered products for real-world problems • Shipping fast, learning in public
-</p>
+# 👋 Hey, I'm Emmanuel
+### Full-Stack Developer & AI Engineer
 
-<p align="center">
-  <a href="https://programmer-emmanuel.vercel.app">Portfolio</a> •
-  <a href="mailto:ue9938090@gmail.com">Email</a>
-</p>
+*Building AI-powered products, scalable platforms, and digital experiences that make a real-world impact.*
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-programmer--emmanuel.vercel.app-blue?style=for-the-badge)](https://programmer-emmanuel.vercel.app)
+[![Email](https://img.shields.io/badge/📧_Email-ue9938090@gmail.com-red?style=for-the-badge)](mailto:ue9938090@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-legendONE382-181717?style=for-the-badge&logo=github)](https://github.com/legendONE382)
 
-## About
-I’m a full-stack builder focused on **production-ready web apps** and **AI-native features**—from idea → UI → backend → deployment.
-
-**What I care about:**
-- Building products people actually use (speed + reliability)
-- Clean, maintainable code and practical system design
-- AI features that are grounded (RAG, citations, fallback behavior, cost control)
+</div>
 
 ---
 
-## Featured Projects
-Here are a few projects that represent what I build best:
+## 🚀 About Me
 
-| Project | What it does | Tech & notes | Live |
-|---|---|---|---|
-| **AskDocs** | Document Q&A app: upload files and ask grounded questions with citations | Next.js (App Router), TypeScript, Tailwind, parsing (PDF/DOCX/etc), Gemini-powered answers + fallback extractive answering | https://askdocs-nine.vercel.app |
-| **TradePulse** | WhatsApp-first, mobile PWA for tracking sales/expenses/customers/debts/invoices/inventory | Vite + modern PWA UI, designed for small sellers; deployable on Vercel; Supabase-ready | https://trade-pulse-rose.vercel.app |
-| **AI Chat App** | Multi-model AI chat with **automatic failover** when providers fail | Node.js + Express; supports Groq, Mistral, OpenAI; reliability-first routing | — |
+I'm a **Full-Stack Developer & AI Engineer** who designs and ships end-to-end digital products with a strong focus on real-world business impact. From AI-driven experiences and marketplace systems to production-ready web apps, I build tools that are **fast**, **scalable**, and **user-friendly**.
 
-**Repos:**
-- AskDocs: https://github.com/legendONE382/Askdocs  
-- TradePulse: https://github.com/legendONE382/Trade-Pulse  
-- AI Chat App: https://github.com/legendONE382/ai-chat-app  
+I blend **product thinking** with **engineering execution** to create reliable digital products that help businesses grow and creators succeed.
+
+- 🤖 **AI Systems** — LLM integrations, RAG pipelines, copilots & automation workflows  
+- ⚙️ **Full-Stack Development** — End-to-end product implementation from UI to infrastructure  
+- 📊 **Scalable Backend Design** — High-performance architecture with reliability & maintainability  
+- 🚀 **Rapid Delivery** — Agile execution with clear, business-focused outcomes  
 
 ---
 
-## What I’m Good At
-- **Full-stack delivery:** design → build → deploy
-- **AI integration:** multi-provider routing, RAG flows, structured prompts, guardrails, fallbacks
-- **Product engineering:** fast iteration without breaking fundamentals (DX, performance, reliability)
+## 🛠️ Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+
+**Backend & Infrastructure**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**AI & Data**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
 
 ---
 
-## Tech Stack (daily drivers)
-**Frontend**
-- Next.js / React, TypeScript, Tailwind CSS
+## 🏆 Featured Projects
 
-**Backend**
-- Node.js (Express), Python (FastAPI/Django when needed), REST APIs
+### 🤖 [Lumora AI](https://github.com/legendONE382)
+> AI-powered productivity and workflow assistant for modern businesses
 
-**Data / Infra**
-- PostgreSQL, MongoDB, Redis (as needed)
-- Docker, CI/CD, Vercel deployments
-
-**AI**
-- LLM integrations (multi-provider), RAG pipelines, embeddings, retrieval + citations
+- Intelligent automation for content, tasks, and decision support  
+- Scalable architecture built for real-world usage and future expansion  
+- Helps users move faster with AI-driven insights and automation  
 
 ---
 
-## How I Build (engineering principles)
-- **Reliability > demos:** timeouts, fallbacks, and clear error handling
-- **Performance matters:** reduce latency, optimize queries, keep UIs responsive
-- **Secure by default:** protect secrets, validate inputs, and ship sane auth patterns
-- **Readable code:** ship fast *and* keep it maintainable
+### 💬 AI Chat Application
+> Multi-model AI platform with automatic failover and load balancing
+
+- Real-time conversation streaming with fallback mechanisms  
+- Production-ready deployment serving multiple users efficiently  
 
 ---
 
-## Let’s Work
-- Email: **ue9938090@gmail.com**
-- Portfolio: **https://programmer-emmanuel.vercel.app**
+### 📄 [AskDocs — Intelligent Document Analysis](https://askdocs-nine.vercel.app)
+> RAG-powered document Q&A system — Live at askdocs-nine.vercel.app
 
-If you’re building a product (web app / AI feature / internal tool), I can help you ship an MVP fast—and evolve it into something stable and scalable.
+- Upload documents (PDF, DOCX, TXT, MD, CSV) and ask grounded questions  
+- Gemini-powered generation with source citations  
+- Stateless auth with HMAC-SHA256 signed tokens stored in HTTP-only cookies  
+- Smart text chunking (~900-character chunks with 140-character overlap)  
 
 ---
 
-<!-- Optional: GitHub Stats (uncomment if you want)
-## Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=legendONE382&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendONE382&layout=compact" />
-</p>
--->
+### 🚢 [Maritime Shipping Simulator](https://github.com/legendONE382/maritime-shipping-simulator)
+> A cinematic browser-based maritime shipping game
+
+- Captain a vessel through dangerous routes, rescues, weather, pirates & missions  
+- Built with **React**, **Vite**, **TypeScript**, and **Three.js**  
+- Features free camera mode, mouse/touch/keyboard controls, mission rating system (S–F grades), and dynamic gameplay feedback  
+- Designed to be approachable, extensible, and visually impressive  
+
+---
+
+### 🌐 [Estech Solutions — Website Catalog](https://github.com/legendONE382/nexa-website-catalog)
+> Premium ready-made websites for businesses and creators
+
+- WhatsApp ordering flow for seamless client onboarding  
+- Responsive navigation and mobile-optimized layouts  
+- Templates for Events Centers, businesses, and more  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=legendONE382&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legendONE382&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm open to **freelance projects**, **collaborations**, and **full-time opportunities**.
+
+- 🌐 **Portfolio:** [programmer-emmanuel.vercel.app](https://programmer-emmanuel.vercel.app)  
+- 📧 **Email:** [ue9938090@gmail.com](mailto:ue9938090@gmail.com)  
+- 💻 **GitHub:** [@legendONE382](https://github.com/legendONE382)  
+
+---
+
+<div align="center">
+
+*"Shipping real products that create real value."*
+
+⭐ **If you find my work useful, consider starring my repos!**
+
+</div>
